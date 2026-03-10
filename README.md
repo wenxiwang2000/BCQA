@@ -113,6 +113,11 @@ Contours are drawn in green.
 - Mean_Intensity
 - Grey_Value
 - X, Y, Width, Height
-<img width="1521" height="590" alt="image" src="https://github.com/user-attachments/assets/38a858dc-f542-49cb-8b2e-2f8349dd206a" />
-<img width="289" height="542" alt="image" src="https://github.com/user-attachments/assets/e0848142-51e8-43ba-a220-ca85844f524e" />
+
+## Software interface details
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/38a858dc-f542-49cb-8b2e-2f8349dd206a" height="350">
+  <img src="https://github.com/user-attachments/assets/e0848142-51e8-43ba-a220-ca85844f524e" height="350">
+</p>
 
